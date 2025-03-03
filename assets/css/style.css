@@ -7639,6 +7639,10 @@ footer {
 }
 
 @media only screen and (max-width: 767px) {
+	#foxyVideo{
+		width: 100%;
+	}
+
 	.dark-layout .banner-style-one .information {
 		margin-top: 0;
 	}
